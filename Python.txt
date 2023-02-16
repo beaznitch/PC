@@ -1,7 +1,11 @@
 Code by Blake
 
-Don't open spyder
-Don't Write Code
-Don't Run Code
-Don't Edit code
+
+For i in I:
+Don't (x) {
+\ open spyder
+/ Write Code
+/ Run Code
+/ Edit code
+}
 
