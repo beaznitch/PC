@@ -1,7 +1,7 @@
 Code by Blake
 
-Open Spyder
-Write Code
-Run Code
-Edit code
+Don't open spyder
+Don't Write Code
+Don't Run Code
+Don't Edit code
 
